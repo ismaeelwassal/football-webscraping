@@ -19,4 +19,10 @@ The results are **exported into a CSV file** for easy access and analysis.
 - **Requests** → for fetching the webpage.  
 - **BeautifulSoup (bs4)** → for parsing HTML.  
 - **lxml** → fast parser for BeautifulSoup.  
-- **CSV module** → for saving results.  
+- **CSV module** → for saving results.
+- ------- 
+## Usage
+
+1. Clone the repository:
+```bash
+git clone https://github.com/ismaeelwassal/webscraping-project.git
