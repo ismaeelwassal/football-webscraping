@@ -32,5 +32,8 @@ git clone https://github.com/ismaeelwassal/webscraping-project.git
 ```bash
 cd webscraping-project
 ```
-ططططط
-طط
+3.Install required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
