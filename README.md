@@ -36,4 +36,9 @@ cd webscraping-project
 ```bash
 pip install -r requirements.txt
 ```
-
+4.Run the script:
+```bash
+python webscraping.py
+```
+5.Enter the desired date in the format YYYY-MM-DD.
+```
