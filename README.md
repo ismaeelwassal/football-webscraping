@@ -28,6 +28,6 @@ The results are **exported into a CSV file** for easy access and analysis.
 git clone https://github.com/ismaeelwassal/webscraping-project.git
 
 2. Navigate to the project folder
-```bash
+
 cd webscraping-project
 
