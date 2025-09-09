@@ -1,0 +1,22 @@
+# 📊 Football Web Scraping
+
+**Football Web Scraping** is a console-based **Python application** that scrapes football match details (teams, results, and match times) from **[Yallakora](https://www.yallakora.com/)** based on a **user-provided date**.  
+The results are **exported into a CSV file** for easy access and analysis.  
+
+---
+
+## 🚀 **Features**
+- **Scrape by Date** → Enter any date (**YYYY-MM-DD**) and get all matches of that day.  
+- **Match Details** → Extracts **tournament name**, **team names**, **score**, and **match time**.  
+- **CSV Export** → Saves results into:  
+  `documents/yallakora/matches-details.csv`  
+- **Error Handling** → Notifies you if there are **no matches** on the given date.  
+
+---
+
+## 🛠️ **Technologies Used**
+- **Python 3**  
+- **Requests** → for fetching the webpage.  
+- **BeautifulSoup (bs4)** → for parsing HTML.  
+- **lxml** → fast parser for BeautifulSoup.  
+- **CSV module** → for saving results.  
